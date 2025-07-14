@@ -2,7 +2,7 @@ Package: SelfControlledCaseSeries
 Type: Package
 Title: Self-Controlled Case Series
 Version: 6.0.1
-Date: 2025-07-11
+Date: 2025-07-14
 Authors@R: c(
   person("Martijn", "Schuemie", , "schuemie@ohdsi.org", role = c("aut", "cre")),
 	person("Patrick", "Ryan", role = c("aut")),
@@ -34,7 +34,7 @@ NeedsCompilation: yes
 RoxygenNote: 7.3.2
 Roxygen: list(markdown = TRUE)
 Encoding: UTF-8
-Packaged: 2025-07-11 07:21:33 UTC; schuemie
+Packaged: 2025-07-14 12:35:27 UTC; schuemie
 Author: Martijn Schuemie [aut, cre],
   Patrick Ryan [aut],
   Trevor Shaddox [aut],
